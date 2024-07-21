@@ -22,3 +22,6 @@ https://blog.sunbk201.site/posts/crack-campus-network
 https://www.bilibili.com/video/BV1qM411w7W5/?share_source=copy_web&vd_source=8f40f0fe12ad6588eabef842882a5b7c
 
 https://y5hwpw3fsi.feishu.cn/docx/UO0wdHReDoUdewxwlpGckSjin3d
+
+
+在发行页面，我提供了红米ac2100，小米ac2100,小米ax3000t的编译好校园网放检测插件的固件，还有教程所说的克隆地址安装包
