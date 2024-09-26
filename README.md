@@ -24,7 +24,7 @@ SSH:XshellPlus-7.0.0031r
 
 
 
-我这里截取了一小部分的小米路由器，在这个列表中，我看到了Xiaomi MiWiFi 3G，说明我的路由器是支持刷入的,如果不会判断自己的路由器支不支持，可以看列表中的[CPU](https://openwrt.org/zh/toh/views/toh_fwdownload),如果你的路由器芯片型号在列表中，那有很大概率是支持输入的。
+我这里截取了一小部分的小米路由器，在这个列表中，我看到了Xiaomi MiWiFi 3G，说明我的路由器是支持刷入的,如果不会判断自己的路由器支不支持，可以看列表中的[CPU](https://openwrt.org/zh/toh/views/toh_fwdownload),如果你的路由器芯片型号在列表中，那有很大概率是支持刷入的。
 
 | Xiaomi | AIoT Router AC2350    |
 | ------ | --------------------- |
